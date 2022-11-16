@@ -1,3 +1,3 @@
-# Microprocessor  \n
-마이크로프로세서 프로젝트 \n
+# Microprocessor 
+마이크로프로세서 프로젝트
 Write here
